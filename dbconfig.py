@@ -1,8 +1,9 @@
 db_config = {
-    'host': 'localhost',
+    'host': 'uraddress',
     'port': 3306,
-    'user': 'root',
-    'password': 'Ezabela02',
+    'user': 'urusername',
+    'password': 'urpassword',
     'database': 'fakessh',
     'charset': 'utf8mb4'
+
 }
